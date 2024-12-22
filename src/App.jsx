@@ -4,8 +4,6 @@ import Examples from "./components/Examples";
 
 
 function App() {
-    console.log("APP COMPONENT EXECUTING");
-
     return (
         <>
             <Header/>
